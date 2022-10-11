@@ -12,4 +12,4 @@ necessary_persons.update(person_intelligence(response, 'Hulk'))
 necessary_persons.update(person_intelligence(response, 'Captain America'))
 necessary_persons.update(person_intelligence(response, 'Thanos'))
 
-print(min(necessary_persons))
+print(max(necessary_persons))
